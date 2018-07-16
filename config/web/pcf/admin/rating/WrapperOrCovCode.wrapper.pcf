@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<PCF
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="../../../../../../pcf.xsd">
+  <ModalCell
+    id="WrapperOrCovCode"
+    mode="wrapper">
+    <Require
+      name="parameter"
+      type="CalcRoutineParameter"/>
+    <Require
+      name="parameterSet"
+      type="CalcRoutineParameterSet"/>
+    <Require
+      name="helper"
+      type="gw.pcf.rating.flow.RatingParameterSetScreenHelper"/>
+    <PickerCell
+      editable="true"
+      id="wrapperName"
+      pickLocation="CoverageWrapperSearchPopup.push(parameterSet.PolicyLinePatternCode)"
+      required="true"
+      validationExpression="helper.validateWrapper(parameterSet.PolicyLinePatternCode, parameter.WrapperClass)"
+      value="parameter.WrapperClass"/>
+  </ModalCell>
+</PCF>

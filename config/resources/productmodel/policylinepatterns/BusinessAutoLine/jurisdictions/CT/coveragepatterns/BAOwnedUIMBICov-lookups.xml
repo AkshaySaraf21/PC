@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<import>
+  <BACovLookup public-id="zo8iuodgbiu673vl25squ32vhk9">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>BAOwnedUIMBICov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>CT</State>
+  </BACovLookup>
+</import>

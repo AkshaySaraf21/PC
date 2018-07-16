@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="import_71">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_327</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_87">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_328</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_113">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_330</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_127">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_331</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_149">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_337</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CoverageLookup public-id="lktblimport_14">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>WCWorkCompDeductCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MA</State>
+  </CoverageLookup>
+</import>

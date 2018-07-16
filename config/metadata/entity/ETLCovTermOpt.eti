@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<entity
+  xmlns="http://guidewire.com/datamodel"
+  desc="Database representation of Product Model coverage term option patterns"
+  entity="ETLCovTermOpt"
+  exportable="true"
+  final="false"
+  ignoreForEvents="true"
+  loadable="false"
+  readOnly="false"
+  table="etlcovtermoption"
+  type="versionable">
+  <column
+    desc="The option code for this option"
+    name="OptionCode"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <column
+    default="0"
+    desc="The value for this Option"
+    name="Value"
+    nullok="false"
+    type="decimal">
+    <columnParam
+      name="precision"
+      value="20"/>
+    <columnParam
+      name="scale"
+      value="4"/>
+  </column>
+  <foreignkey
+    columnName="CoverageTermPatternID"
+    desc="the foreign key to the Coverage Term Pattern for this option"
+    exportasid="true"
+    fkentity="ETLOptionCovTermPattern"
+    name="CoverageTermPattern"
+    nullok="false"/>
+  <column
+    desc="Currency of the option covterm option"
+    name="Currency"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <column
+    desc="The Public ID of the source coverage term option in the product model"
+    name="PatternID"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+</entity>

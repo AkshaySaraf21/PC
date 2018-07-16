@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<import>
+  <ModifierLookup public-id="lktblimport_146">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>ContractClassification</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MA</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_178">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>EmployerType</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MA</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_79">
+    <Availability>Available</Availability>
+    <EndEffectiveDate>2008-01-01 00:00:00.000</EndEffectiveDate>
+    <ModifierPatternCode>LossMgmtProgram</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MA</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_93">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>MeritRating</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MA</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_26">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>WCScheduleCredits</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MA</State>
+  </ModifierLookup>
+</import>

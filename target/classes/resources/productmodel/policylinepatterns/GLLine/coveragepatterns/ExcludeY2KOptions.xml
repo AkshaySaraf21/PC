@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ExclusionPattern
+  coverageCategory="GLY2K"
+  exclusionSubtype="GeneralLiabilityExcl"
+  existence="Electable"
+  lookupTableName="GLExcl"
+  owningEntityType="GeneralLiabilityLine"
+  policyLinePattern="GLLine"
+  priority="-1"
+  public-id="ExcludeY2KOptions"
+  referenceDateByType="DefinedObject">
+  <CovTerms>
+    <TypekeyCovTermPattern
+      coverageColumn="ChoiceTerm1"
+      lookupTableName="GLCovTerm"
+      priority="100"
+      public-id="ExcludeY2KExposureType"
+      required="true"
+      typelist="Y2KExclusionType"/>
+  </CovTerms>
+</ExclusionPattern>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermOptLookup public-id="znciaeb54umhgaeu09gk4r0hcs9">
+    <Availability>Available</Availability>
+    <CovTermOptCode>z93g0u4btfsio1f2giv15klvcba</CovTermOptCode>
+    <CovTermPatternCode>PIPMA_PIP</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MA</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <BACovLookup public-id="z0hj8qs2m80d20thpe79ih4ctd9">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>CAPIP_MA</CoveragePatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MA</State>
+  </BACovLookup>
+</import>

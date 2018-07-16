@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermLookup public-id="zt9jq8riic75pft6n1a8ik33p2b">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>BACollisionBroad</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MI</State>
+    <UWCompanyCode/>
+  </CovTermLookup>
+</import>

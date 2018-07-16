@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<import>
+  <BusinessVehicleModifierLookup public-id="znjgm6o62758qcrk6kqp0o3n989">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <JobType/>
+    <ModifierPatternCode>BAVehOperatedByEmployee</ModifierPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <PolicyType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>KY</State>
+    <UWCompanyCode/>
+    <VehicleType>PP</VehicleType>
+  </BusinessVehicleModifierLookup>
+  <BusinessVehicleModifierLookup public-id="zcmgunuoi8ka41fqohode1qq7la">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <JobType/>
+    <ModifierPatternCode>BAVehCoveredByWCMod</ModifierPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <PolicyType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>KY</State>
+    <UWCompanyCode/>
+    <VehicleType>Commercial</VehicleType>
+  </BusinessVehicleModifierLookup>
+  <BusinessVehicleModifierLookup public-id="zqeiujd0imfek4cn2ofse0806vb">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <JobType/>
+    <ModifierPatternCode>BAVehOwnerOperated</ModifierPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <PolicyType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>KY</State>
+    <UWCompanyCode/>
+    <VehicleType>PublicTransport</VehicleType>
+  </BusinessVehicleModifierLookup>
+</import>

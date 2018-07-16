@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<plugin
+  interface="IETLProductModelLoaderPlugin"
+  name="IETLProductModelLoaderPlugin">
+  <plugin-gosu
+    gosuclass="gw.plugin.etlprodmodloader.impl.ETLProductModelLoaderPlugin"/>
+</plugin>

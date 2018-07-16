@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<import>
+  <CoverageLookup public-id="wKgURezTGYIAAAAA">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>PAUIMBICov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>PA</State>
+  </CoverageLookup>
+  <CovTermPackLookup public-id="wKgURcH7bOIAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_252</CovTermPackCode>
+    <CovTermPatternCode>PAUIMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>PA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermLookup public-id="zghjc86obq102dgkfna9tfts2i9">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>PAUIMBIstacked</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>PA</State>
+    <UWCompanyCode/>
+  </CovTermLookup>
+</import>

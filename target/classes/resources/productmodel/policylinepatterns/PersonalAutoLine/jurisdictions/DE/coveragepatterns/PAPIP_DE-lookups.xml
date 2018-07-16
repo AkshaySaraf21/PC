@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<import>
+  <CoverageLookup public-id="paobheidq8t1269c2eeuj9l61opb">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>PAPIP_DE</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>DE</State>
+  </CoverageLookup>
+  <CovTermLookup public-id="paokhqrop0m4an42kmlcfqfin0db">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>PAPIP_DE_Deductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>DE</State>
+  </CovTermLookup>
+  <CovTermLookup public-id="pa81iifiivni2g6husdk2ti7qf6a">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>PAPIP_DE_Deduct_WhoApplies</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>DE</State>
+  </CovTermLookup>
+  <CovTermLookup public-id="pahkjcefob3768499ur7ct1lndha">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>PAPIP_DE_LIM</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>DE</State>
+  </CovTermLookup>
+  <CovTermPackLookup public-id="pa46gaa3pfk4ja0671spo641rdqb">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pa3jj48cd9vgideb5o7nlveb7958</CovTermPackCode>
+    <CovTermPatternCode>PAPIP_DE_LIM</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>DE</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+</import>

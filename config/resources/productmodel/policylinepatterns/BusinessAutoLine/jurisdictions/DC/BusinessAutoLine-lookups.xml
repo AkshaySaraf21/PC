@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<import>
+  <BusinessVehicleModifierLookup public-id="z4figo0h0t67p3bof2j5oq7f3va">
+    <Availability>Available</Availability>
+    <ModifierPatternCode>BAVehOperatedByEmployee</ModifierPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>DC</State>
+    <VehicleType>PP</VehicleType>
+  </BusinessVehicleModifierLookup>
+  <BusinessVehicleModifierLookup public-id="zo8j6aeuqvpeq4uq3cq4l47agua">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <JobType/>
+    <ModifierPatternCode>BAVehCoveredByWCMod</ModifierPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <PolicyType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>DC</State>
+    <UWCompanyCode/>
+    <VehicleType>Commercial</VehicleType>
+  </BusinessVehicleModifierLookup>
+  <BusinessVehicleModifierLookup public-id="zjpg6v3g8f5qg4rdqdpqkep1smb">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>BAVehOwnerOperated</ModifierPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>DC</State>
+    <VehicleType>PublicTransport</VehicleType>
+  </BusinessVehicleModifierLookup>
+  <BusinessVehicleModifierLookup public-id="z1eggq383cp826seug3821li8pa">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>BAVehGovSponsored</ModifierPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>DC</State>
+  </BusinessVehicleModifierLookup>
+  <BusinessVehicleModifierLookup public-id="z78gafhn8r1dobpbija3ms0cfsb">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>BAVehEmplyrVanPool</ModifierPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>DC</State>
+  </BusinessVehicleModifierLookup>
+</import>

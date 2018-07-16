@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="wKgUYpsNdrIAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_320</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NC</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgUYhoGK3wAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_322</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NC</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgUYiJ22ooAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_325</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NC</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgUYk_mY18AAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_326</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NC</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgUYmjUaAUAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_327</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NC</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgUYs3_36wAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_328</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NC</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgUYj98PgsAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_329</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NC</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgUYkEJGUYAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_330</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NC</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgUYqacX_sAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_331</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NC</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgUYvV08ZkAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_337</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NC</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CoverageLookup public-id="wKgUYkE3_14AAAAA">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>WCWorkCompDeductCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NC</State>
+  </CoverageLookup>
+</import>

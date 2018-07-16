@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<import>
+  <ModifierLookup public-id="lktblimport_142">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>ContractClassification</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>DE</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_90">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>MeritRating</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>DE</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_130">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>WorkplcSafetyPrgmFac</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>DE</State>
+  </ModifierLookup>
+</import>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<import>
+  <BAExclLookup public-id="zefheqs0fk5ugch60c29mqllp7b">
+    <Availability>Available</Availability>
+    <ExclusionPatternCode>BATerror2362Excl</ExclusionPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>DC</State>
+  </BAExclLookup>
+</import>

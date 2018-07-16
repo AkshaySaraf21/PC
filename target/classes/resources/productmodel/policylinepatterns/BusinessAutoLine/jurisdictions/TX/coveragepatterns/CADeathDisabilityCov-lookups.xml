@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<import>
+  <BACovLookup public-id="zjth0f8ae0g952san7a8avji1qb">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>CADeathDisabilityCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <PolicyType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>TX</State>
+    <UWCompanyCode/>
+  </BACovLookup>
+  <CovTermLookup public-id="zchjc5d7l108i9nv2akiaf5t9la">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>DeathBenefitLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>TX</State>
+    <UWCompanyCode/>
+  </CovTermLookup>
+  <CovTermLookup public-id="z65ge7gr5gued3n5tn7navsivj8">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>DisabilityBenefitLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>TX</State>
+    <UWCompanyCode/>
+  </CovTermLookup>
+</import>

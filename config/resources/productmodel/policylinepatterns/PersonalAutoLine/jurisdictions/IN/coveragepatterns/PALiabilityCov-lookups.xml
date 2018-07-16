@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="wKgJFEDOWfkAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_187</CovTermPackCode>
+    <CovTermPatternCode>PALiability</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>IN</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+</import>

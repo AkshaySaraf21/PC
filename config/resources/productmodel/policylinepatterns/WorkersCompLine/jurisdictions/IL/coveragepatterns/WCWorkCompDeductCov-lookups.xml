@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="import_84">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_328</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>IL</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgUYtF0MxAAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_310</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>IL</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CoverageLookup public-id="wKgUYmoR9AIAAAAA">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>WCWorkCompDeductCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>IL</State>
+  </CoverageLookup>
+</import>

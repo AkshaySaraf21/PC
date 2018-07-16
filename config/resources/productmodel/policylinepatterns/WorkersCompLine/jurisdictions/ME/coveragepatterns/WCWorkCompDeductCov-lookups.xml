@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="import_3">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_299</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>ME</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_27">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_310</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>ME</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_38">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_319</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>ME</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_254">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_379</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>ME</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CoverageLookup public-id="lktblimport_13">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>WCWorkCompDeductCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>ME</State>
+  </CoverageLookup>
+</import>

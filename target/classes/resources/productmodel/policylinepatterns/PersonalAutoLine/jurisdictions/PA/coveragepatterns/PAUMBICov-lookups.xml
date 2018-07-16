@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="import_522">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_207</CovTermPackCode>
+    <CovTermPatternCode>PAUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>PA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermLookup public-id="z7bigt9mdqio3d8e9mf5aeuo8pa">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>PAUMBIstacked</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>PA</State>
+    <UWCompanyCode/>
+  </CovTermLookup>
+  <CovTermLookup public-id="znqi8q535fpmf7f8hprtlodf7r9">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>PAUMBIIncludeUIM</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>PA</State>
+    <UWCompanyCode/>
+  </CovTermLookup>
+</import>

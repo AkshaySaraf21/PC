@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="defaultlktblimport_214">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_178</CovTermPackCode>
+    <CovTermPatternCode>PALiability</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>WY</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+</import>

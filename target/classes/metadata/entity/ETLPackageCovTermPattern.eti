@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<subtype
+  xmlns="http://guidewire.com/datamodel"
+  desc="A subtype of the ETLCoverageTermPattern"
+  displayName="ETLPackageCovTermPattern"
+  entity="ETLPackageCovTermPattern"
+  supertype="ETLCoverageTermPattern">
+  <array
+    arrayentity="ETLCovTermPack"
+    cascadeDelete="true"
+    desc="All the packages for the Coverage Pattern."
+    name="Packages"/>
+</subtype>

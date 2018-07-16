@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="import_721">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_100</CovTermPackCode>
+    <CovTermPatternCode>BANonownedLiabBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>WI</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_733">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_120</CovTermPackCode>
+    <CovTermPatternCode>BANonownedLiabBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>WI</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+</import>

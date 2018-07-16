@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<entity
+  xmlns="http://guidewire.com/datamodel"
+  desc="Database representation of Product Model modifier patterns"
+  entity="ETLModifierPattern"
+  loadable="false"
+  table="etlmodifierpattern"
+  type="versionable">
+  <column
+    desc="The Name of this Modifier Pattern"
+    name="Name"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <column
+    desc="The Data Type of this Modifier pattern"
+    name="ModifierDataType"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <column
+    desc="Whether this Modifier Pattern is a ScheduleRate modifier pattern"
+    name="ScheduleRate"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <column
+    desc="Name of the typelist associated with this Modifier Pattern (iff ModifierDataType is typekey) "
+    name="Typelist"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <array
+    arrayentity="ETLRateFactorPattern"
+    cascadeDelete="true"
+    desc="All the Rate Factor Patterns for this ModifierPattern"
+    name="RateFactorPatterns"/>
+  <column
+    desc="The Public ID of the source modifier pattern in the product model"
+    name="PatternID"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+</entity>

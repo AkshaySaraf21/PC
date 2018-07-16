@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermLookup public-id="zs2guaqf9s22636ktr42o2mjc69">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>BACollisionBroad</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MA</State>
+  </CovTermLookup>
+</import>

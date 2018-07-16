@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<PCF
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="../../../../../../pcf.xsd">
+  <ModalCell
+    id="WrapperOrCovCode"
+    mode="default">
+    <Require
+      name="parameter"
+      type="CalcRoutineParameter"/>
+    <Require
+      name="parameterSet"
+      type="CalcRoutineParameterSet"/>
+    <Require
+      name="helper"
+      type="gw.pcf.rating.flow.RatingParameterSetScreenHelper"/>
+    <Cell
+      id="dummyCell"/>
+  </ModalCell>
+</PCF>

@@ -1,0 +1,605 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="import_5">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_300</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_7">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_301</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_9">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_302</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_11">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_303</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_13">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_304</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_15">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_305</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_17">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_306</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_19">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_307</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_21">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_308</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_23">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_309</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_64">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_327</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_79">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_328</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_95">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_329</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_108">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_330</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_121">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_331</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_142">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_337</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_157">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_339</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_166">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_340</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_170">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_341</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_216">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_361</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_218">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_362</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_220">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_363</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_222">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_364</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_224">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_365</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_226">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_366</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_228">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_367</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_232">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_369</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_234">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_370</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_236">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_371</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_238">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_372</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_240">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_373</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_242">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_374</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_244">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_375</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_246">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_376</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_248">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_377</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_250">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_378</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_255">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_380</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_257">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_381</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_259">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_382</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_261">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_383</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_263">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_384</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_265">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_385</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_267">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_386</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_269">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_387</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_271">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_388</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_273">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_389</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_277">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_391</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_279">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_392</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_281">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_393</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_283">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_394</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_285">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_395</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_287">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_396</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_289">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_397</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_291">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_398</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_293">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_399</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_295">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_400</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_299">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_402</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_301">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_403</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_303">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_404</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_305">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_405</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_307">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_406</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_309">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_407</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_311">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_408</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_313">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_409</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_315">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_410</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_317">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_411</CovTermPackCode>
+    <CovTermPatternCode>WCDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CoverageLookup public-id="lktblimport_8">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>WCWorkCompDeductCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>GA</State>
+  </CoverageLookup>
+</import>

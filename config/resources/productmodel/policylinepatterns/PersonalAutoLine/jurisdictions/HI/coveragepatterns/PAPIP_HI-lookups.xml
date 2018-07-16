@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<import>
+  <CoverageLookup public-id="pa7kim8ou9ijei12ufhdla92lpn8">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>PAPIP_HI</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>HI</State>
+    <UWCompanyCode/>
+  </CoverageLookup>
+  <CovTermLookup public-id="papmg8h6mvds84bmcea73apmjhu8">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>PAPIP_HI_MedRehab</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>HI</State>
+    <UWCompanyCode/>
+  </CovTermLookup>
+  <CovTermLookup public-id="paa4hk8re435tkd0f6vc8sdtmppb">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>PAPIP_HI_WageLoss</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>HI</State>
+    <UWCompanyCode/>
+  </CovTermLookup>
+  <CovTermLookup public-id="paachsi6m3is2i1cjen6g78lpudb">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>PAPIP_HI_Death</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>HI</State>
+    <UWCompanyCode/>
+  </CovTermLookup>
+  <CovTermLookup public-id="pacrjsq5ut1bkjddq2uqiois75g9">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>PAPIP_HI_Funeral</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>HI</State>
+    <UWCompanyCode/>
+  </CovTermLookup>
+  <CovTermLookup public-id="pajbhsq8annbc3bhj5l5cv11sova">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>PAPIP_HI_AltTreatment</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>HI</State>
+    <UWCompanyCode/>
+  </CovTermLookup>
+  <CovTermPackLookup public-id="pavii0d264aj5t53pg0ppug8fge9">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pa4eg49pn3io4m2u7dk2v6b4ebn9</CovTermPackCode>
+    <CovTermPatternCode>PAPIP_HI_AltTreatment</CovTermPatternCode>
+    <Currency>usd</Currency>
+    <EndEffectiveDate/>
+    <JobType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>HI</State>
+    <UWCompanyCode/>
+  </CovTermPackLookup>
+</import>

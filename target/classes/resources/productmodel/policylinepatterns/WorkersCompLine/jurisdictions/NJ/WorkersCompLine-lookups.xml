@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<import>
+  <ModifierLookup public-id="lktblimport_152">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>ContractClassification</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NJ</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_165">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>DesignatedMedProvider</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NJ</State>
+  </ModifierLookup>
+</import>

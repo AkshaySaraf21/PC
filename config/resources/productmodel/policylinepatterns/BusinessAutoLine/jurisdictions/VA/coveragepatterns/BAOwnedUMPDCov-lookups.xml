@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermOptLookup public-id="wKgJNzoIwUcAAAAA">
+    <Availability>Available</Availability>
+    <CovTermOptCode>wKgJN31dcRwAAAAA</CovTermOptCode>
+    <CovTermPatternCode>BAUMPDLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="wKgJNyZ1VRYAAAAA">
+    <Availability>Available</Availability>
+    <CovTermOptCode>wKgJN3dozIoAAAAA</CovTermOptCode>
+    <CovTermPatternCode>BAUMPDLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="wKgJNy9OkSEAAAAA">
+    <Availability>Available</Availability>
+    <CovTermOptCode>wKgJN667MQQAAAAA</CovTermOptCode>
+    <CovTermPatternCode>BAUMPDLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="wKgJN_0FekkAAAAA">
+    <Availability>Available</Availability>
+    <CovTermOptCode>wKgJN7yuLHkAAAAA</CovTermOptCode>
+    <CovTermPatternCode>BAUMPDLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="wKgJN_B_OIkAAAAA">
+    <Availability>Available</Availability>
+    <CovTermOptCode>wKgJN9JrApgAAAAA</CovTermOptCode>
+    <CovTermPatternCode>BAUMPDLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="wKgJN2PMLdYAAAAA">
+    <Availability>Available</Availability>
+    <CovTermOptCode>wKgJN9yLgnkAAAAA</CovTermOptCode>
+    <CovTermPatternCode>BAUMPDLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="wKgJN22WX7gAAAAA">
+    <Availability>Available</Availability>
+    <CovTermOptCode>wKgJNyHJDlwAAAAA</CovTermOptCode>
+    <CovTermPatternCode>BAUMPDLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <BACovLookup public-id="zdri0fnonopss835ncernsp5ja8">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>BAOwnedUMPDCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+  </BACovLookup>
+</import>

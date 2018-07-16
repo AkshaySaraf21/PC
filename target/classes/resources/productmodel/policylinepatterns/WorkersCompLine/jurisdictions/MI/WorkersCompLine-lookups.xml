@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<import>
+  <ModifierLookup public-id="lktblimport_171">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>DrugFreeWorkplc</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MI</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_84">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>ManagedCare</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MI</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_95">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>MeritRating</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MI</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_131">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>WorkplcSafetyPrgmFac</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MI</State>
+  </ModifierLookup>
+</import>

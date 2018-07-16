@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<import>
+  <ModifierLookup public-id="lktblimport_111">
+    <Availability>Available</Availability>
+    <EndEffectiveDate>2008-01-01 00:00:00.000</EndEffectiveDate>
+    <ModifierPatternCode>CollectiveBargaining</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MN</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_148">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>ContractClassification</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MN</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_162">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>DesignatedMedProvider</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MN</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_175">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>DrugFreeWorkplc</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MN</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_96">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>MeritRating</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MN</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_109">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>ReturnToWork</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MN</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_28">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>WCScheduleCredits</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MN</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_132">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>WorkplcSafetyPrgmFac</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MN</State>
+  </ModifierLookup>
+</import>

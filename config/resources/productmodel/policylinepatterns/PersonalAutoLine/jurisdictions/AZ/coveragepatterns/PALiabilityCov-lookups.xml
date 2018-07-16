@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="wKgJFCg3wIAAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_186</CovTermPackCode>
+    <CovTermPatternCode>PALiability</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>AZ</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_366">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_196</CovTermPackCode>
+    <CovTermPatternCode>PALiability</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>AZ</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+</import>

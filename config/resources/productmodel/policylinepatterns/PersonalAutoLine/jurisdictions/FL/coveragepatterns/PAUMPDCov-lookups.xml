@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermLookup public-id="z8piuvgba3o2rbkd31nc18nct0a">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>PAUMPDstacked</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>FL</State>
+  </CovTermLookup>
+  <CoverageLookup public-id="zvliujdggb5o67423b25n9bg4g8">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>PAUMPDCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>FL</State>
+    <UWCompanyCode/>
+  </CoverageLookup>
+</import>

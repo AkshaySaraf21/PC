@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<PCF
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="../../../../../../pcf.xsd">
+  <Page
+    afterCancel="doAfterCancel()"
+    afterCommit="RateRoutineDetail.go(rateroutine)"
+    beforeCommit="doBeforeCommit()"
+    canEdit="perm.System.ratebookedit"
+    canVisit="perm.System.ratebookedit"
+    id="ConfigureRateRoutine"
+    parent="RateRoutines()"
+    showUpLink="true"
+    startInEditMode="true"
+    title="isNewRoutine ? displaykey.Web.Rating.RateRoutines.NewRateRoutineTitle : displaykey.Web.Rating.RateRoutines.EditRateRoutineTitle">
+    <LocationEntryPoint
+      signature="ConfigureRateRoutine(isNewRoutine : boolean, srcRateRoutine : CalcRoutineDefinition, copyVersionType : gw.rating.flow.util.CopyVersionType)"/>
+    <Variable
+      initialValue="null"
+      name="srcRateRoutine"
+      type="CalcRoutineDefinition"/>
+    <Variable
+      name="copyVersionType"
+      type="gw.rating.flow.util.CopyVersionType"/>
+    <Variable
+      initialValue="isNewRoutine ? (srcRateRoutine != null ? srcRateRoutine.initializeCopy(copyVersionType) : gw.pcf.rating.flow.NewRateRoutineHelper.createNewRoutine()) : srcRateRoutine"
+      name="rateroutine"
+      type="CalcRoutineDefinition"/>
+    <Variable
+      name="isNewRoutine"
+      type="boolean"/>
+    <ScreenRef
+      def="RateRoutineEditScreen(rateroutine, isNewRoutine, copyVersionType)"/>
+    <Code><![CDATA[function doAfterCancel() {
+  if (isNewRoutine) {
+    RateRoutines.go()
+  } else {
+    RateRoutineDetail.go(rateroutine)
+  }
+}
+
+function doBeforeCommit() {
+  if (isNewRoutine) {
+    gw.rating.flow.validation.RateRoutineValidation.validateRateRoutineDefinition(rateroutine, "loadsave", gw.rating.flow.validation.ValidationGroup.ALL)
+  }
+}]]></Code>
+  </Page>
+</PCF>

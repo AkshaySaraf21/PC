@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermOptLookup public-id="wKgJN8mjywsAAAAA">
+    <Availability>Available</Availability>
+    <CovTermOptCode>wKgJN1mz_BgAAAAA</CovTermOptCode>
+    <CovTermPatternCode>BAUMPDLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>DC</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="wKgJN5chzl8AAAAA">
+    <Availability>Available</Availability>
+    <CovTermOptCode>wKgJN42HFAkAAAAA</CovTermOptCode>
+    <CovTermPatternCode>BAUMPDLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>DC</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <BACovLookup public-id="zeagcf5vaj7cm6ff3sekvgmtbv9">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>BAOwnedUMPDCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>DC</State>
+  </BACovLookup>
+</import>

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<entity
+  xmlns="http://guidewire.com/datamodel"
+  entity="ETLCoverageTermPattern"
+  exportable="true"
+  final="false"
+  ignoreForEvents="true"
+  loadable="false"
+  readOnly="false"
+  table="etlcovtermpattern"
+  type="versionable">
+  <fulldescription><![CDATA[
+    Table that holds coverage information based on the Product Model. This table will be used for ETL purposes only.
+  ]]></fulldescription>
+  <column
+    desc="The Code for the Coverage Term Pattern"
+    name="Code"
+    nullok="false"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <column
+    desc="The column 'Coverage' table that is populated with the Coverage Term Pattern PublicID"
+    name="ColumnName"
+    nullok="false"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <column
+    desc="The Name for the Coverage Term Pattern"
+    name="Name"
+    nullok="false"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <column
+    desc="The Model Type for the pattern. Should Correspond to the ModelType typelist"
+    name="ModelType"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <foreignkey
+    columnName="ClausePatternID"
+    desc="the foreign key to the Clause Pattern for this option"
+    exportasid="true"
+    fkentity="ETLClausePattern"
+    name="ClausePattern"
+    nullok="false"/>
+  <column
+    desc="The type of the covTerm"
+    name="CovTermType"
+    nullok="false"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <column
+    desc="The Public ID of the source coverage term pattern in the product model"
+    name="PatternID"
+    nullok="false"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+</entity>

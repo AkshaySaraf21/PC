@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<import>
+  <BACovLookup public-id="zmdh2p1a61o8s5copekttllmhv9">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>BAOwnedUMPDCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>AK</State>
+  </BACovLookup>
+</import>

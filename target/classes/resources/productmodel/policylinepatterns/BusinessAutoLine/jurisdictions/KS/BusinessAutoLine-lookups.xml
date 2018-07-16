@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<import>
+  <BusinessVehicleModifierLookup public-id="z61ja3ias3paq4rmdhorhqe2bq9">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>BAVehFurnishedRegUse</ModifierPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>KS</State>
+  </BusinessVehicleModifierLookup>
+  <BusinessVehicleModifierLookup public-id="z7dg67g09vu9l0b3t36fgfpfgda">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <JobType/>
+    <ModifierPatternCode>BAVehOwnerOperated</ModifierPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <PolicyType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>KS</State>
+    <UWCompanyCode/>
+    <VehicleType>PublicTransport</VehicleType>
+  </BusinessVehicleModifierLookup>
+</import>

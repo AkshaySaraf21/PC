@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="wKgJN4u2JksAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJN2RiBWMAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MD</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+</import>

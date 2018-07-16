@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gx-model type="entity.PersonalAutoCov" xmlns="http://guidewire.com/gx">
+  <includes>
+    <include path="Costs[]" type="entity.PersonalAutoCovCost" propertyInclusionType="NORMAL" model="gw.webservice.pc.pc800.gxmodel.quotingpacovcostmodel"/>
+    <include path="CovTerms[]" type="gw.api.domain.covterm.CovTerm" propertyInclusionType="NORMAL" model="gw.webservice.pc.pc800.gxmodel.covtermmodel"/>
+    <include path="EffectiveDate" type="java.util.Date" propertyInclusionType="NORMAL"/>
+    <include path="ExpirationDate" type="java.util.Date" propertyInclusionType="NORMAL"/>
+    <include path="PatternCode" type="java.lang.String" propertyInclusionType="NORMAL"/>
+    <include path="Subtype" type="typekey.PersonalAutoCov" propertyInclusionType="NORMAL"/>
+  </includes>
+</gx-model>

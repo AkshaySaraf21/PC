@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermLookup public-id="z5nh4t0d3v7rkdjnfqnbvbq5629">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>DisabilityBenefit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+    <UWCompanyCode/>
+  </CovTermLookup>
+  <CovTermLookup public-id="z9ehkbppetmt48v1cgtbifbvm7a">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>DeathBenefit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+    <UWCompanyCode/>
+  </CovTermLookup>
+  <CovTermLookup public-id="zosg8ls55talfd4f3gju3ajrkla">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>DismembermentBenefitLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+  </CovTermLookup>
+  <CoverageLookup public-id="zt4ju8sr99q2mequ64ft3mtrbn9">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>PADeathDisabilityCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+    <UWCompanyCode/>
+  </CoverageLookup>
+</import>

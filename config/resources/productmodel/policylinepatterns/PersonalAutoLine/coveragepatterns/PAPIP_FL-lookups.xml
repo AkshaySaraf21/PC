@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermOptLookup public-id="pauuha2gnkgeqee55104m7hrl9q9">
+    <Availability>Available</Availability>
+    <CovTermOptCode>pa51h60rmuqrl97gdh19goe64itb</CovTermOptCode>
+    <CovTermPatternCode>PAPIP_FL_LIMIT</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="pakdhem2hb6l7s266rjn1kplnsd9">
+    <Availability>Available</Availability>
+    <CovTermOptCode>paemio9ko2268l2lb9jljfgkg51b</CovTermOptCode>
+    <CovTermPatternCode>PAPIP_FL_LIMIT</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <UWCompanyCode/>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="pa09g0391vlc4i42rhfe0bc7g4ab">
+    <Availability>Available</Availability>
+    <CovTermOptCode>pasbi0cn0ot8jv46319fm0p02bu8</CovTermOptCode>
+    <CovTermPatternCode>PAPIP_FL_LIMIT</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <UWCompanyCode/>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="pa33im9keu2c0c5n4paksp56vp8b">
+    <Availability>Available</Availability>
+    <CovTermOptCode>pa83ggc2f56tqq90htevv4hdc9ea</CovTermOptCode>
+    <CovTermPatternCode>PAPIP_FL_LIMIT</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <UWCompanyCode/>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="pakig8pkkva688brl7i0iid19rb9">
+    <Availability>Available</Availability>
+    <CovTermOptCode>pa15gqci07888oeaptvcqom8c2ba</CovTermOptCode>
+    <CovTermPatternCode>PAPIP_FL_Deductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="pailh8ciog7qn8f1obfdn8q215c8">
+    <Availability>Available</Availability>
+    <CovTermOptCode>paglh2fbech3db3pihbh1f81d6fb</CovTermOptCode>
+    <CovTermPatternCode>PAPIP_FL_Deductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <UWCompanyCode/>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="pah5hikr48uhg244qdg6terjhhta">
+    <Availability>Available</Availability>
+    <CovTermOptCode>pa13hq689ogahjctsasatkud5pr9</CovTermOptCode>
+    <CovTermPatternCode>PAPIP_FL_Deductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <UWCompanyCode/>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="panehs6voe15bp8jofh4jmijsa09">
+    <Availability>Available</Availability>
+    <CovTermOptCode>pa68jqrtrms80a5v7sjs1r9pf8fb</CovTermOptCode>
+    <CovTermPatternCode>PAPIP_FL_Deductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <UWCompanyCode/>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+</import>

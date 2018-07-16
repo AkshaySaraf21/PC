@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermOptLookup public-id="wKgJN0KBbfgAAAAA">
+    <Availability>Available</Availability>
+    <CovTermOptCode>wKgJNz2u50kAAAAA</CovTermOptCode>
+    <CovTermPatternCode>BAUMPDLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>OR</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <BACovLookup public-id="ziaimbt2olhpa2imfotts8eqbm9">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>BAOwnedUMPDCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>OR</State>
+  </BACovLookup>
+</import>

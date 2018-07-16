@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<import>
+  <CoverageLookup public-id="pa6bhsa9gvg61mea0s9qtorvjl48">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>PAPIP_KS</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>KS</State>
+  </CoverageLookup>
+</import>

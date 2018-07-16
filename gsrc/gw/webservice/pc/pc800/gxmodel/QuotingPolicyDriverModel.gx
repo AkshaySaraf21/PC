@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<gx-model type="entity.PolicyDriver" xmlns="http://guidewire.com/gx">
+  <includes>
+    <include path="AccountContactRole.(entity-Driver).NumberofAccidents" type="typekey.NumberOfAccidents" propertyInclusionType="NORMAL"/>
+    <include path="AccountContactRole.(entity-Driver).NumberofViolations" type="typekey.NumberOfAccidents" propertyInclusionType="NORMAL"/>
+    <include path="AccountContactRole.AccountContact.Contact.PublicID" type="java.lang.String" propertyInclusionType="NORMAL"/>
+    <include path="AccountContactRole.Subtype" type="typekey.AccountContactRole" propertyInclusionType="NORMAL"/>
+    <include path="DateOfBirth" type="java.util.Date" propertyInclusionType="NORMAL"/>
+    <include path="LicenseNumber" type="java.lang.String" propertyInclusionType="NORMAL"/>
+    <include path="LicenseState" type="typekey.Jurisdiction" propertyInclusionType="NORMAL"/>
+    <include path="MaritalStatus" type="typekey.MaritalStatus" propertyInclusionType="NORMAL"/>
+    <include path="VehicleDrivers[]" type="entity.VehicleDriver" propertyInclusionType="NORMAL" model="gw.webservice.pc.pc800.gxmodel.vehicledrivermodel"/>
+  </includes>
+</gx-model>

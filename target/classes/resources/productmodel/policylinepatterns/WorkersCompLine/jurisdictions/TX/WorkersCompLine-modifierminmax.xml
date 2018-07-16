@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<import>
+  <ModifierMinMaxLookup modifierPatternCode="WCScheduleCredits" public-id="wKgEXh_CvZEAAAAA">
+    <Maximum>0.5000</Maximum>
+    <Minimum>-0.5000</Minimum>
+    <State>TX</State>
+  </ModifierMinMaxLookup>
+</import>

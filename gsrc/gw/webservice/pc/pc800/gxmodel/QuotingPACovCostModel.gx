@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<gx-model type="entity.PACost" xmlns="http://guidewire.com/gx">
+  <includes>
+    <include path="ActualAdjRate" type="java.math.BigDecimal" propertyInclusionType="NORMAL"/>
+    <include path="ActualAmount" type="gw.pl.currency.MonetaryAmount" propertyInclusionType="NORMAL"/>
+    <include path="ActualBaseRate" type="java.math.BigDecimal" propertyInclusionType="NORMAL"/>
+    <include path="ActualTermAmount" type="gw.pl.currency.MonetaryAmount" propertyInclusionType="NORMAL"/>
+    <include path="CreateTime" type="java.util.Date" propertyInclusionType="NORMAL"/>
+    <include path="EffectiveDate" type="java.util.Date" propertyInclusionType="NORMAL"/>
+    <include path="ExpirationDate" type="java.util.Date" propertyInclusionType="NORMAL"/>
+    <include path="Overridable" type="java.lang.Boolean" propertyInclusionType="NORMAL"/>
+    <include path="OverrideAdjRate" type="java.math.BigDecimal" propertyInclusionType="NORMAL"/>
+    <include path="OverrideAmount" type="gw.pl.currency.MonetaryAmount" propertyInclusionType="NORMAL"/>
+    <include path="OverrideAmountBilling" type="gw.pl.currency.MonetaryAmount" propertyInclusionType="NORMAL"/>
+    <include path="OverrideBaseRate" type="java.math.BigDecimal" propertyInclusionType="NORMAL"/>
+    <include path="OverrideReason" type="java.lang.String" propertyInclusionType="NORMAL"/>
+    <include path="OverrideSource" type="typekey.OverrideSourceType" propertyInclusionType="NORMAL"/>
+    <include path="OverrideTermAmount" type="gw.pl.currency.MonetaryAmount" propertyInclusionType="NORMAL"/>
+    <include path="OverrideTermAmountBilling" type="gw.pl.currency.MonetaryAmount" propertyInclusionType="NORMAL"/>
+    <include path="StandardAdjRate" type="java.math.BigDecimal" propertyInclusionType="NORMAL"/>
+    <include path="StandardAmount" type="gw.pl.currency.MonetaryAmount" propertyInclusionType="NORMAL"/>
+    <include path="StandardAmountBilling" type="gw.pl.currency.MonetaryAmount" propertyInclusionType="NORMAL"/>
+    <include path="StandardBaseRate" type="java.math.BigDecimal" propertyInclusionType="NORMAL"/>
+    <include path="StandardTermAmount" type="gw.pl.currency.MonetaryAmount" propertyInclusionType="NORMAL"/>
+    <include path="StandardTermAmountBilling" type="gw.pl.currency.MonetaryAmount" propertyInclusionType="NORMAL"/>
+    <include path="Vehicle.Vin" type="java.lang.String" propertyInclusionType="NORMAL"/>
+  </includes>
+</gx-model>

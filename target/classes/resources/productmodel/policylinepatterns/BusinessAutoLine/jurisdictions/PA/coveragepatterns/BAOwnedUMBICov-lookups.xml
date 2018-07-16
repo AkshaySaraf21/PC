@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="wKgJN5uuX3EAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_285</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>PA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermLookup public-id="wKgURZqc3S0AAAAA">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>BAOwnedUMStack</CovTermPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>PA</State>
+  </CovTermLookup>
+</import>

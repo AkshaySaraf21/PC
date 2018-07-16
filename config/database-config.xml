@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<database-config xmlns="http://guidewire.com/database-config">
+
+  <!-- H2 (meant for demo/quickstart use only!) -->
+  <database name="PolicyCenterDatabase" dbtype="h2" autoupgrade="true">
+    <dbcp-connection-pool jdbc-url="jdbc:h2:file:/tmp/guidewire/pc;CACHE_SIZE=32000"/>
+  </database>
+
+  <database name="PolicyCenterDatabase" dbtype="h2" autoupgrade="true" env="h2mem">
+    <dbcp-connection-pool jdbc-url="jdbc:h2:mem:/tmp/guidewire/pc"/>
+  </database>
+
+<!-- Oracle
+  <database name="PolicyCenterDatabase" dbtype="oracle" autoupgrade="false">
+    <dbcp-connection-pool jdbc-url="jdbc:oracle:thin:<USER>/<PASSWORD>@<HOSTNAME>:<PORT>:<ORACLE_SID>"/>
+    <upgrade ora-parallel-dml="enable" ora-parallel-query="enable"
+             degree-of-parallelism="4" degree-parallel-ddl="4" defer-create-nonessential-indexes="false">
+      <ora-db-ddl>
+        <tablespaces admin="PC_ADMIN" index="PC_INDEX" op="PC_OP" staging="PC_STAGING" typelist="PC_TYPELIST"/>
+      </ora-db-ddl>
+      <versiontriggers dbmsperfinfothreshold="600"/>
+    </upgrade>
+    <databasestatistics samplingpercentage="0" databasedegree="1">
+      <tablestatistics name="pc_jobuserroleassign">
+        <histogramstatistics name="CreateTime" numbuckets="75"/>
+      </tablestatistics>
+    </databasestatistics>
+  </database>
+-->
+
+ <!-- <database name="PolicyCenterDatabase" dbtype="sqlserver" autoupgrade="false">
+    <dbcp-connection-pool jdbc-url="jdbc:mysql://localhost:3306;DatabaseNamePolicyCenterDatabase;User=root;Password=root"/>
+    <upgrade defer-create-nonessential-indexes="false">
+      <versiontriggers dbmsperfinfothreshold="600" />
+    </upgrade>
+    <databasestatistics>
+      <tablestatistics name="pc_jobuserroleassign">
+        <histogramstatistics name="CreateTime" numbuckets="75"/>
+      </tablestatistics>
+    </databasestatistics>
+  </database>
+-->
+<!-- SQL Server with filegroups
+  <database name="PolicyCenterDatabase" dbtype="sqlserver" autoupgrade="true">
+    <dbcp-connection-pool
+        jdbc-url="jdbc:sqlserver://<HOSTNAME>:<PORT>;DatabaseName=<DBNAME>;User=<USER>;Password=<PASSWORD>"/>
+    <upgrade defer-create-nonessential-indexes="false">
+      <versiontriggers dbmsperfinfothreshold="600"/>
+      <mssql-db-ddl>
+        <mssql-filegroups admin="ADMINFG" index="INDEXFG" op="OPFG" staging="STAGINGFG" typelist="TYPELISTFG" lob="LOBSFG"/>
+      </mssql-db-ddl>
+    </upgrade>
+    <databasestatistics>
+      <tablestatistics name="pc_jobuserroleassign">
+        <histogramstatistics name="CreateTime" numbuckets="75"/>
+      </tablestatistics>
+    </databasestatistics>
+  </database>
+-->
+
+</database-config>

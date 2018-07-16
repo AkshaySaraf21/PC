@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<import>
+  <BusinessVehicleModifierLookup public-id="zt8g8p2fca9s33elgb3dg54l919">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <JobType/>
+    <ModifierPatternCode>BAVehOperatedByEmployee</ModifierPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <PolicyType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MD</State>
+    <UWCompanyCode/>
+    <VehicleType>PP</VehicleType>
+  </BusinessVehicleModifierLookup>
+</import>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<entity
+  xmlns="http://guidewire.com/datamodel"
+  desc="Database representation of Product Model rate factor patterns"
+  entity="ETLRateFactorPattern"
+  loadable="false"
+  table="etlratefactorpattern"
+  type="versionable">
+  <column
+    desc="The type of this Rate Factor Pattern"
+    name="RateFactorType"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <column
+    desc="The Ref Code of this Rate Factor Pattern"
+    name="RefCode"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <foreignkey
+    fkentity="ETLModifierPattern"
+    loadable="false"
+    name="ModifierPattern"
+    nullok="false"/>
+  <column
+    desc="The Public ID of the source rate factor pattern in the product model"
+    name="PatternID"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+</entity>

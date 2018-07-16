@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<import>
+  <CoverageLookup public-id="lktblimport_227">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>PAUMPDCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>UT</State>
+  </CoverageLookup>
+  <CovTermOptLookup public-id="wKgURUJ_7vcAAAAA">
+    <Availability>Available</Availability>
+    <CovTermOptCode>wKgURQRqJocAAAAA</CovTermOptCode>
+    <CovTermPatternCode>PAUMPDLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>UT</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="wKgURYpv8EoAAAAA">
+    <Availability>Available</Availability>
+    <CovTermOptCode>opt_317</CovTermOptCode>
+    <CovTermPatternCode>PAUMPDLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>UT</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="wKgURdf167AAAAAA">
+    <Availability>Available</Availability>
+    <CovTermOptCode>wKgURYAl15EAAAAA</CovTermOptCode>
+    <CovTermPatternCode>PAUMPDLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>UT</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+</import>

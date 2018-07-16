@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ConditionPattern
+  conditionSubtype="GeneralLiabilityCond"
+  coverageCategory="GLDesignated"
+  existence="Electable"
+  lookupTableName="GLCond"
+  owningEntityType="GeneralLiabilityLine"
+  policyLinePattern="GLLine"
+  priority="-1"
+  public-id="LimitCovPremiseProject"
+  referenceDateByType="DefinedObject">
+  <CovTerms>
+    <GenericCovTermPattern
+      coverageColumn="StringTerm1"
+      lookupTableName="GLCovTerm"
+      priority="-1"
+      public-id="DesignatePremisesProject"
+      required="true"/>
+  </CovTerms>
+</ConditionPattern>

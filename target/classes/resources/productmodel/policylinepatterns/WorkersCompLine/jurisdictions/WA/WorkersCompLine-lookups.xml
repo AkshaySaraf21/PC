@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<import>
+  <ModifierLookup public-id="wKgJLfzIuDkAAAAA">
+    <Availability>Unavailable</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>ExpMod</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>WA</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="wKgUYoLioqwAAAAA">
+    <Availability>Unavailable</Availability>
+    <ModifierPatternCode>MedReimbursement</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>WA</State>
+  </ModifierLookup>
+</import>

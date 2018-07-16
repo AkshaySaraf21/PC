@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<import>
+  <ModifierLookup public-id="lktblimport_164">
+    <Availability>Available</Availability>
+    <EndEffectiveDate>2008-01-01 00:00:00.000</EndEffectiveDate>
+    <ModifierPatternCode>DesignatedMedProvider</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NH</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_31">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>WCScheduleCredits</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NH</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="wKgUYhio2iYAAAAA">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>ManagedCare</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NH</State>
+  </ModifierLookup>
+</import>

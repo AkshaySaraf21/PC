@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<entity
+  xmlns="http://guidewire.com/datamodel"
+  desc="Database representation of Product Model clause patterns"
+  entity="ETLClausePattern"
+  final="false"
+  loadable="false"
+  table="etlclausepattern"
+  type="versionable">
+  <column
+    desc="The Owning Entity type for this Coverage Pattern"
+    name="OwningEntityType"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <column
+    desc="The CoverageCategory of the Coverage Pattern"
+    name="CoverageCategory"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <array
+    arrayentity="ETLCoverageTermPattern"
+    cascadeDelete="true"
+    desc="All the options for the Coverage Pattern."
+    name="CoverageTermPatterns"/>
+  <column
+    desc="The Covered Party Type of this Coverage Pattern"
+    name="CoveredPartyType"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <column
+    desc="The name of this clause pattern in the Product Model"
+    name="Name"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <column
+    desc="The coverage subtype of this clause in the Product Model"
+    name="CoverageSubtype"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <column
+    desc="The type of this clause in the Product Model (Coverage, Exclusion, Policy Condition)"
+    name="ClauseType"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <column
+    desc="The Public ID of the source clause pattern in the product model"
+    name="PatternID"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+</entity>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<import>
+  <BusinessVehicleModifierLookup public-id="z8jg0aon6547gahjdlfpgiljmub">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <JobType/>
+    <ModifierPatternCode>BAVehOperatedByEmployee</ModifierPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <PolicyType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>ND</State>
+    <UWCompanyCode/>
+    <VehicleType>PP</VehicleType>
+  </BusinessVehicleModifierLookup>
+  <BusinessVehicleModifierLookup public-id="z7pho6o3cge0v29sarg6sp7keh8">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <JobType/>
+    <ModifierPatternCode>BAVehCoveredByWCMod</ModifierPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <PolicyType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>ND</State>
+    <UWCompanyCode/>
+    <VehicleType>Commercial</VehicleType>
+  </BusinessVehicleModifierLookup>
+  <BusinessVehicleModifierLookup public-id="znehoikmpn31efkllo0u4ukmenb">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <JobType/>
+    <ModifierPatternCode>BAVehOwnerOperated</ModifierPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <PolicyType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>ND</State>
+    <UWCompanyCode/>
+    <VehicleType>PublicTransport</VehicleType>
+  </BusinessVehicleModifierLookup>
+  <BusinessVehicleModifierLookup public-id="ze5ie5qf4cdem0jo6b3lrqhnef9">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <JobType/>
+    <ModifierPatternCode>BAVehEmplyrVanPool</ModifierPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <PolicyType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>ND</State>
+    <UWCompanyCode/>
+    <VehicleType/>
+  </BusinessVehicleModifierLookup>
+</import>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermOptLookup public-id="defaultlktblimport_466">
+    <Availability>Available</Availability>
+    <CovTermOptCode>opt_112</CovTermOptCode>
+    <CovTermPatternCode>BAPropProtectLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <UWCompanyCode/>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <BACovLookup public-id="z88ia1qu57k0g0m2o7vk6vd459b">
+    <Availability>Unavailable</Availability>
+    <CoveragePatternCode>BAPropProtectionCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <UWCompanyCode/>
+  </BACovLookup>
+</import>

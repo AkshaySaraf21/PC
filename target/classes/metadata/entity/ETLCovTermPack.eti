@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<entity
+  xmlns="http://guidewire.com/datamodel"
+  desc="Database representation of Product Model coverage term package patterns"
+  entity="ETLCovTermPack"
+  exportable="true"
+  final="false"
+  ignoreForEvents="true"
+  loadable="false"
+  readOnly="false"
+  table="etlcovtermpackage"
+  type="versionable">
+  <column
+    desc="The Package Code for this package"
+    name="PackageCode"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <column
+    desc="The Name for this package"
+    name="Name"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <foreignkey
+    columnName="CoverageTermPatternID"
+    desc="the foreign key to the Coverage Pattern for this package"
+    exportasid="true"
+    fkentity="ETLPackageCovTermPattern"
+    name="CoverageTermPattern"
+    nullok="false"/>
+  <array
+    arrayentity="ETLPackageTerm"
+    cascadeDelete="true"
+    desc="All the package terms for the package."
+    name="PackageTerms"/>
+  <column
+    desc="Currency of the package covterm option"
+    name="Currency"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <column
+    desc="The Public ID of the source pattern in the product model"
+    name="PatternID"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+</entity>

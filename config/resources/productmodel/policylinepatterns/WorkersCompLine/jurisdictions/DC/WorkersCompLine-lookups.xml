@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<import>
+  <ModifierLookup public-id="lktblimport_22">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>WCScheduleCredits</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>DC</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="wKgUYn46qiMAAAAA">
+    <Availability>Available</Availability>
+    <ModifierPatternCode>WorkplcSafetyPrgmFac</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2008-01-01 00:00:00.000</StartEffectiveDate>
+    <State>DC</State>
+  </ModifierLookup>
+</import>

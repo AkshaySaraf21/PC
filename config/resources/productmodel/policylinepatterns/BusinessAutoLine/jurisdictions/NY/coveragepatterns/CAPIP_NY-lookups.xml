@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<import>
+  <BACovLookup public-id="zmjjer5fqmeri8022d5rf25eska">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>CAPIP_NY</CoveragePatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NY</State>
+  </BACovLookup>
+</import>

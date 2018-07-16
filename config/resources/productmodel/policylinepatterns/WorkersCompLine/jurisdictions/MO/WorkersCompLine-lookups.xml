@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<import>
+  <ModifierLookup public-id="lktblimport_149">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>ContractClassification</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MO</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_163">
+    <Availability>Available</Availability>
+    <EndEffectiveDate>2008-01-01 00:00:00.000</EndEffectiveDate>
+    <ModifierPatternCode>DesignatedMedProvider</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MO</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_75">
+    <Availability>Available</Availability>
+    <EndEffectiveDate>2008-01-01 00:00:00.000</EndEffectiveDate>
+    <ModifierPatternCode>InjMgmtEnrollFailure</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MO</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_77">
+    <Availability>Available</Availability>
+    <EndEffectiveDate>2008-01-01 00:00:00.000</EndEffectiveDate>
+    <ModifierPatternCode>InjMgmtProgram</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MO</State>
+  </ModifierLookup>
+</import>

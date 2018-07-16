@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<import>
+  <CoverageLookup public-id="wKgURSkoV5IAAAAA">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>PAUIMBICov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>HI</State>
+  </CoverageLookup>
+  <CovTermPackLookup public-id="wKgURZliANwAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgURRN9ALEAAAAA</CovTermPackCode>
+    <CovTermPatternCode>PAUIMBI</CovTermPatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>HI</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermLookup public-id="zqni82chahi8232p9e6kl3lfdra">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>PAUIMBIstacked</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>HI</State>
+  </CovTermLookup>
+</import>

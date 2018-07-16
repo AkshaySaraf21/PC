@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="wKgJFEmORPwAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>PA_75CSL</CovTermPackCode>
+    <CovTermPatternCode>PALiability</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MN</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJFBGeCWUAAAAA">
+    <Availability>Unavailable</Availability>
+    <CovTermPackCode>pack_179</CovTermPackCode>
+    <CovTermPatternCode>PALiability</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MN</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_346">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_181</CovTermPackCode>
+    <CovTermPatternCode>PALiability</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MN</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+</import>

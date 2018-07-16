@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<import>
+  <CoverageLookup public-id="paf5hui1rj5bm7al7ho1kq1q5ir9">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>PAPIP_MA</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MA</State>
+  </CoverageLookup>
+  <CovTermOptLookup public-id="panciaeb54umhgaeu09gk4r0hcs9">
+    <Availability>Available</Availability>
+    <CovTermOptCode>pa93g0u4btfsio1f2giv15klvcba</CovTermOptCode>
+    <CovTermPatternCode>PAPIPMA_LIMIT</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MA</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+</import>

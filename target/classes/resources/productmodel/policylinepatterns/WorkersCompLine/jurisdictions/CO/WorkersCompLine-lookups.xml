@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<import>
+  <ModifierLookup public-id="lktblimport_159">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>DesignatedMedProvider</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>CO</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_107">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>PPDEmpRehire</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>CO</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_21">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>WCScheduleCredits</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>CO</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="wKgUYoRSUYgAAAAA">
+    <Availability>Available</Availability>
+    <ModifierPatternCode>CertRiskMgt</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2008-01-01 00:00:00.000</StartEffectiveDate>
+    <State>CO</State>
+  </ModifierLookup>
+</import>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermOptLookup public-id="ztjhu3nk0v03s0hs2p1rdv6e6u9">
+    <Availability>Available</Availability>
+    <CovTermOptCode>zkkgct9giridaa8gpd6svgrkfv9</CovTermOptCode>
+    <CovTermPatternCode>DeathBenefitLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="za3h6k5i3ghc18nksbb2edjvnj9">
+    <Availability>Available</Availability>
+    <CovTermOptCode>zhsikili17tbv5q54793fs7gpib</CovTermOptCode>
+    <CovTermPatternCode>DeathBenefitLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="z8lj2erm1ovro84837fgkb9ti9a">
+    <Availability>Available</Availability>
+    <CovTermOptCode>zmhiuhuo1546odh34v28pllgdv9</CovTermOptCode>
+    <CovTermPatternCode>DeathBenefitLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="zvvgmhc82b5pf8t06bg2es4jsl9">
+    <Availability>Available</Availability>
+    <CovTermOptCode>zubgq1d3qh5q121las0qosn4rt9</CovTermOptCode>
+    <CovTermPatternCode>DisabilityBenefitLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+</import>

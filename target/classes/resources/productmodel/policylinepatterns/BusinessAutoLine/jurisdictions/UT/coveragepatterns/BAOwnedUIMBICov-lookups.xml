@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="wKgJN2XmWCoAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJNw6MamcAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUIMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>UT</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <BACovLookup public-id="zvuiahfv7nklufamflvg8ugsrba">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>BAOwnedUIMBICov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>UT</State>
+  </BACovLookup>
+</import>

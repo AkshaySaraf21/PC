@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<import>
+  <BACondLookup public-id="z3higo293hpihc2t66sqvogqrpb">
+    <Availability>Unavailable</Availability>
+    <ConditionPatternCode>BATerror2356Cond</ConditionPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MA</State>
+  </BACondLookup>
+</import>

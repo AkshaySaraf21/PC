@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<PCF
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="../../../../../../pcf.xsd">
+  <ModalCell
+    id="RateTableStrategyCell"
+    mode="default">
+    <Require
+      name="selectedRateTable"
+      type="RateTable"/>
+    <Cell
+      id="OwnerStrategy"
+      value="displaykey.Web.Rating.RateTables.OwnerStrategy(selectedRateTable.TableOwningFactors.QueryStrategy)"/>
+  </ModalCell>
+</PCF>

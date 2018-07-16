@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<import>
+  <BACovLookup public-id="zonievbataccbbhquc75l3dd2ea">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>CAPIP_FL</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>FL</State>
+  </BACovLookup>
+  <CovTermLookup public-id="zvhh04c79l0nj792i3u819pidka">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>CAPIP_FL_LIMIT</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>FL</State>
+  </CovTermLookup>
+  <CovTermLookup public-id="zjrjul5mqrq2s7lupp5do27t7d8">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>CAPIP_FL_Deductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>FL</State>
+  </CovTermLookup>
+  <CovTermLookup public-id="ztlhk9v32vc9q40bkr42la8lgt9">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>CAPIP_FL_WorkWaiver</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>FL</State>
+  </CovTermLookup>
+  <CovTermLookup public-id="zgfgofqb26bn5d5c9rade4hvau9">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>CAPIP_FL_ApplyDeductible</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>FL</State>
+  </CovTermLookup>
+</import>

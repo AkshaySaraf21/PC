@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="defaultlktblimport_507">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_289</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="defaultlktblimport_508">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_293</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJN_2Bpu4AAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJN_F90PoAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJN3TZEekAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJN5JCJBwAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJN9oWCvMAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJN6ENiXkAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJN8sMChoAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJN7wOb7UAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJN4g1ylAAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJN_1f0lYAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJNxTIEBEAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJN_A20aMAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJN5ATiX4AAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJNx77R_MAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJNyhhx0cAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJNyAst7sAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJN0RNbOwAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJNzC_rloAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJN5tQqdsAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJNzLqY0QAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermLookup public-id="defaultlktblimport_340">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+  </CovTermLookup>
+  <BACovLookup public-id="z3jhsqjm40ujn5qljlbinsq0fgb">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>BAOwnedUMBICov</CoveragePatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+  </BACovLookup>
+</import>

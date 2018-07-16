@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="wKgJN0kwwUQAAAAA">
+    <Availability>Unavailable</Availability>
+    <CovTermPackCode>pack_289</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>AK</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJN3PVd_wAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJN24OkgsAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>AK</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJNxQ7GTUAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJN6cJ1d8AAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>AK</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+</import>

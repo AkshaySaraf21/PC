@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermOptLookup public-id="z57hoisq464o65kdoom2cibb98b">
+    <Availability>Unavailable</Availability>
+    <CovTermOptCode>z78isngduqsou6dhe4b68k7hpg8</CovTermOptCode>
+    <CovTermPatternCode>PAUIMPDlimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>CA</State>
+    <UWCompanyCode/>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="zpvheb1o772rj2iln42cfc1vl5b">
+    <Availability>Unavailable</Availability>
+    <CovTermOptCode>zn2juqgsb6ljo275tl4j69m0dka</CovTermOptCode>
+    <CovTermPatternCode>PAUIMPDlimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>CA</State>
+    <UWCompanyCode/>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="zv4jodpk91a0i3b5kp6i5vrqge9">
+    <Availability>Unavailable</Availability>
+    <CovTermOptCode>zsahc20k8vbo47iftogik7as63a</CovTermOptCode>
+    <CovTermPatternCode>PAUIMPDlimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>CA</State>
+    <UWCompanyCode/>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermLookup public-id="ze1hcchupmirm79o30s59bq5au9">
+    <Availability>Unavailable</Availability>
+    <CovTermPatternCode>PAUIMPDlimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>CA</State>
+    <UWCompanyCode/>
+  </CovTermLookup>
+</import>

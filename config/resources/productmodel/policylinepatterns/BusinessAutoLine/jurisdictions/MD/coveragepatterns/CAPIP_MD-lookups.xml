@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermLookup public-id="zekimtdde58sf0her1a9k765ccb">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>PIPMD_PIP</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MD</State>
+  </CovTermLookup>
+  <BACovLookup public-id="zjah8bgt1lt2e6va8afnbnt80la">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>CAPIP_MD</CoveragePatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MD</State>
+  </BACovLookup>
+</import>

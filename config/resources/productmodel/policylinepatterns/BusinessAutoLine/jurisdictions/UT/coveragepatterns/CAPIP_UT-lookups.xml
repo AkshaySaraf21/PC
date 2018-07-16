@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<import>
+  <BACovLookup public-id="zvrii3mcqbmtu2d8vpi4g0j99hb">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>CAPIP_UT</CoveragePatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>UT</State>
+  </BACovLookup>
+</import>

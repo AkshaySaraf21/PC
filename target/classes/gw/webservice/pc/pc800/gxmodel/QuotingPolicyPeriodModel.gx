@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<gx-model type="entity.PolicyPeriod" xmlns="http://guidewire.com/gx">
+  <includes>
+    <include path="NonPremiumCosts[]" type="entity.Cost" propertyInclusionType="NORMAL" model="gw.webservice.pc.pc800.gxmodel.costmodel"/>
+    <include path="Notes[]" type="entity.Note" propertyInclusionType="NORMAL" model="gw.webservice.pc.pc800.gxmodel.notemodel"/>
+    <include path="PersonalAutoLine.PALineCoverages[]" type="entity.PersonalAutoCov" propertyInclusionType="NORMAL" model="gw.webservice.pc.pc800.gxmodel.quotingpersonalautocovmodel"/>
+    <include path="PersonalAutoLine.PolicyDrivers[]" type="entity.PolicyDriver" propertyInclusionType="NORMAL" model="gw.webservice.pc.pc800.gxmodel.quotingpolicydrivermodel"/>
+    <include path="PersonalAutoLine.UWCompanyCode" type="typekey.UWCompanyCode" propertyInclusionType="NORMAL"/>
+    <include path="PersonalAutoLine.Vehicles[]" type="entity.PersonalVehicle" propertyInclusionType="NORMAL" model="gw.webservice.pc.pc800.gxmodel.quotingpersonalvehiclemodel"/>
+    <include path="PolicyContactRoles[]" type="entity.PolicyContactRole" propertyInclusionType="NORMAL" model="gw.webservice.pc.pc800.gxmodel.policycontactrolemodel"/>
+    <include path="PolicyLocations[]" type="entity.PolicyLocation" propertyInclusionType="NORMAL" model="gw.webservice.pc.pc800.gxmodel.policylocationmodel"/>
+    <include path="ProducerCodeOfRecord.Code" type="java.lang.String" propertyInclusionType="NORMAL"/>
+    <include path="RateAsOfDate" type="java.util.Date" propertyInclusionType="NORMAL"/>
+    <include path="WrittenDate" type="java.util.Date" propertyInclusionType="NORMAL"/>
+  </includes>
+</gx-model>

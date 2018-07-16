@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<subtype
+  xmlns="http://guidewire.com/datamodel"
+  desc="A subtype of the ETLCoverageTermPattern"
+  displayName="ETLTypekeyCovTermPattern"
+  entity="ETLTypekeyCovTermPattern"
+  supertype="ETLCoverageTermPattern">
+  <column
+    desc="The typelist that this Coverage Term Pattern references"
+    name="Typelist"
+    nullok="false"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+</subtype>

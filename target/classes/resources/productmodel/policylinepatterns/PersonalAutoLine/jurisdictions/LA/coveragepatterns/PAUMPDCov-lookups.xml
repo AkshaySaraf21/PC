@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<import>
+  <CoverageLookup public-id="lktblimport_215">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>PAUMPDCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>LA</State>
+  </CoverageLookup>
+  <CovTermOptLookup public-id="wKgUReLIRGIAAAAA">
+    <Availability>Available</Availability>
+    <CovTermOptCode>opt_317</CovTermOptCode>
+    <CovTermPatternCode>PAUMPDLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>LA</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="wKgURbyjpksAAAAA">
+    <Availability>Unavailable</Availability>
+    <CovTermOptCode>opt_314</CovTermOptCode>
+    <CovTermPatternCode>PAUMPDLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>LA</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="wKgURUvArUYAAAAA">
+    <Availability>Unavailable</Availability>
+    <CovTermOptCode>opt_315</CovTermOptCode>
+    <CovTermPatternCode>PAUMPDLimit</CovTermPatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>LA</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="wKgURXUPA3EAAAAA">
+    <Availability>Unavailable</Availability>
+    <CovTermOptCode>wKgURWm_XN0AAAAA</CovTermOptCode>
+    <CovTermPatternCode>PAUMPDLimit</CovTermPatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>LA</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+</import>

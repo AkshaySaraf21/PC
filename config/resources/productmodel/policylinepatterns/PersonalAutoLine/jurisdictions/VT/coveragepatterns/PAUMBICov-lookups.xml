@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="wKgURZkbPc4AAAAA">
+    <Availability>Unavailable</Availability>
+    <CovTermPackCode>pack_209</CovTermPackCode>
+    <CovTermPatternCode>PAUMBI</CovTermPatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VT</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgURYUwTIgAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_211</CovTermPackCode>
+    <CovTermPatternCode>PAUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VT</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+</import>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="wKgJFN4zadQAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>PA_50_100_25</CovTermPackCode>
+    <CovTermPatternCode>PALiability</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>ME</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJFC5pgy4AAAAA">
+    <Availability>Unavailable</Availability>
+    <CovTermPackCode>pack_179</CovTermPackCode>
+    <CovTermPatternCode>PALiability</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>ME</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+</import>

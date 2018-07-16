@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<import>
+  <CoverageLookup public-id="lktblimport_231">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>PAPropProtectionCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MI</State>
+  </CoverageLookup>
+</import>

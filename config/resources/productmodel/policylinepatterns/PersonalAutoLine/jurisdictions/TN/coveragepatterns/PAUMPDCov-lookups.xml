@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<import>
+  <CoverageLookup public-id="lktblimport_225">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>PAUMPDCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>TN</State>
+  </CoverageLookup>
+  <CovTermOptLookup public-id="wKgURT6zZxoAAAAA">
+    <Availability>Available</Availability>
+    <CovTermOptCode>opt_317</CovTermOptCode>
+    <CovTermPatternCode>PAUMPDLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>TN</State>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+</import>

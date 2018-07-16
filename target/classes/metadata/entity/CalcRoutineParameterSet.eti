@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<entity
+  xmlns="http://guidewire.com/datamodel"
+  desc="Calculation routine parameter set"
+  entity="CalcRoutineParameterSet"
+  exportable="true"
+  loadable="false"
+  subpackage="financials"
+  table="calcroutineparamset"
+  type="retireable">
+  <column
+    desc="The unique code for this calculation routine parameter set"
+    name="Code"
+    nullok="false"
+    type="patterncode"/>
+  <column
+    desc="The name for this calculation routine parameter set"
+    name="Name"
+    nullok="false"
+    type="shorttext">
+    <localization
+      nullok="false"
+      tableName="pscol_label_l10n"/>
+  </column>
+  <column
+    desc="The pattern defining what kind of PolicyLine this CalcRoutine was written for"
+    name="PolicyLinePatternCode"
+    nullok="true"
+    type="patterncode"/>
+  <column
+    default="true"
+    desc="Flag marking whether this parameter set contains a Cost parameter"
+    name="IncludesCost"
+    nullok="false"
+    type="bit"/>
+  <array
+    arrayentity="CalcRoutineParameter"
+    cascadeDelete="true"
+    desc="List of calculation routine parameters"
+    name="Parameters"
+    owner="true"/>
+  <index
+    desc="Index ensuring the uniqueness of a calculation routine parameter set."
+    name="CRPS1"
+    unique="true">
+    <indexcol
+      keyposition="1"
+      name="Code"/>
+    <indexcol
+      keyposition="2"
+      name="Retired"/>
+  </index>
+</entity>

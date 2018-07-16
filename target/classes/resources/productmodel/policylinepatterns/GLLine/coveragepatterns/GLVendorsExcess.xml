@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ConditionPattern
+  conditionSubtype="GeneralLiabilityCond"
+  coverageCategory="GLOther"
+  existence="Electable"
+  lookupTableName="GLCond"
+  owningEntityType="GeneralLiabilityLine"
+  policyLinePattern="GLLine"
+  priority="-1"
+  public-id="GLVendorsExcess"
+  referenceDateByType="DefinedObject"/>

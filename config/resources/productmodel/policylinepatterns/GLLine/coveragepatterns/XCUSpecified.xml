@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<CoveragePattern
+  coverageCategory="GLDesignated"
+  coverageSubtype="GeneralLiabilityCov"
+  coveredPartyType="ThirdParty"
+  existence="Electable"
+  lookupTableName="GLCov"
+  owningEntityType="GeneralLiabilityLine"
+  policyLinePattern="GLLine"
+  priority="70"
+  public-id="XCUSpecified"
+  referenceDateByType="DefinedObject">
+  <CovTerms>
+    <GenericCovTermPattern
+      coverageColumn="StringTerm1"
+      lookupTableName="GLCovTerm"
+      modelType="Other"
+      priority="-1"
+      public-id="XCULocOpsHazBasis"
+      required="true"/>
+  </CovTerms>
+</CoveragePattern>

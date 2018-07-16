@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<import>
+  <CoverageLookup public-id="zr4gqo87dv9s6canp93ok4le7ta">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>PADeathDisabilityCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>TX</State>
+  </CoverageLookup>
+  <CovTermLookup public-id="zi9haocctag52bkpq8e2v9228v9">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>DeathBenefit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>TX</State>
+  </CovTermLookup>
+  <CovTermLookup public-id="z40gqh32eftjndiclgjg1d0j5l8">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>DisabilityBenefit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>TX</State>
+  </CovTermLookup>
+</import>

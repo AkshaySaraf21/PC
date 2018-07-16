@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<CoveragePattern
+  coverageCategory="BAPPollutionGrp"
+  coverageSubtype="BAStateCov"
+  coveredPartyType="ThirdParty"
+  existence="Electable"
+  lookupTableName="BAStateCov"
+  owningEntityType="BAJurisdiction"
+  policyLinePattern="BusinessAutoLine"
+  priority="-1"
+  public-id="BAPollutLiabBoardCov"
+  referenceDateByType="DefinedObject">
+  <AvailabilityScript><![CDATA[return BAJurisdiction.BusinessAutoLine.GaragingJurisdictions.contains(BAJurisdiction)]]></AvailabilityScript>
+  <InitializeScript/>
+  <OnRemovalScript/>
+  <CovTerms/>
+</CoveragePattern>

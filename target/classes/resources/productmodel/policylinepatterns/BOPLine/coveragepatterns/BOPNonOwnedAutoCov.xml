@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<CoveragePattern
+  coverageCategory="BOPOtherIncludedCat"
+  coverageSubtype="BusinessOwnersCov"
+  coveredPartyType="ThirdParty"
+  existence="Electable"
+  lookupTableName="BOPCov"
+  owningEntityType="BusinessOwnersLine"
+  policyLinePattern="BOPLine"
+  priority="2"
+  public-id="BOPNonOwnedAutoCov"
+  referenceDateByType="DefinedObject">
+  <AvailabilityScript/>
+  <InitializeScript/>
+  <OnRemovalScript/>
+  <CovTerms/>
+</CoveragePattern>

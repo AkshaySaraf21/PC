@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="wKgJFJNcETsAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>PA_0_0_5</CovTermPackCode>
+    <CovTermPatternCode>PALiability</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NJ</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_364">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_195</CovTermPackCode>
+    <CovTermPatternCode>PALiability</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NJ</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermLookup public-id="ze8jqgnv2a0aj5s9leqm45kllra">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>PAFullLimitedTort</CovTermPatternCode>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NJ</State>
+  </CovTermLookup>
+</import>

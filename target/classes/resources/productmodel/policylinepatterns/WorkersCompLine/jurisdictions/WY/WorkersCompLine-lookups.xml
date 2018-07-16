@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<import>
+  <ModifierLookup public-id="wKgUYn4OQ94AAAAA">
+    <Availability>Unavailable</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>ExpMod</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>WY</State>
+  </ModifierLookup>
+</import>

@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<entity
+  xmlns="http://guidewire.com/datamodel"
+  desc="Database representation of Product Model package term patterns"
+  entity="ETLPackageTerm"
+  exportable="true"
+  final="false"
+  ignoreForEvents="true"
+  loadable="false"
+  readOnly="false"
+  table="etlpackterm"
+  type="versionable">
+  <column
+    desc="The Value Type for the package term. Should Correspond to the CovTermModelVal typelist"
+    name="ValueType"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <column
+    desc="The Name for this package term"
+    name="Name"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+  <column
+    default="0"
+    desc="The value for this Package Term"
+    name="Value"
+    nullok="false"
+    type="decimal">
+    <columnParam
+      name="precision"
+      value="20"/>
+    <columnParam
+      name="scale"
+      value="4"/>
+  </column>
+  <foreignkey
+    columnName="CovTermPackID"
+    desc="the foreign key to the Term Package"
+    exportasid="true"
+    fkentity="ETLCovTermPack"
+    name="CovTermPack"
+    nullok="false"/>
+  <column
+    desc="The Public ID of the source pattern in the product model"
+    name="PatternID"
+    nullok="true"
+    type="varchar">
+    <columnParam
+      name="size"
+      value="255"/>
+  </column>
+</entity>

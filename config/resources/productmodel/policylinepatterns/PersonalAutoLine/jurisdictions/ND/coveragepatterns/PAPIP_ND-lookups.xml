@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<import>
+  <CoverageLookup public-id="pa8phk83u720pj98ja71g2d2ru69">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>PAPIP_ND</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>ND</State>
+  </CoverageLookup>
+</import>

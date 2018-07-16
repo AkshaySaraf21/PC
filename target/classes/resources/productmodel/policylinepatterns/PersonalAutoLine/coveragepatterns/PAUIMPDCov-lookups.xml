@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<import>
+  <CoverageLookup public-id="zs7g4jd1cugp5baisan7je5tafa">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>PAUIMPDCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+  </CoverageLookup>
+  <CovTermLookup public-id="zuihgtvm9jv3264l5t34df2v899">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>PAUIMPDlimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+  </CovTermLookup>
+  <CovTermOptLookup public-id="ztcjsskaatmudc7a6op92e788ga">
+    <Availability>Available</Availability>
+    <CovTermOptCode>zn2juqgsb6ljo275tl4j69m0dka</CovTermOptCode>
+    <CovTermPatternCode>PAUIMPDlimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="zbljc8s10ku7v145denpcg7jm29">
+    <Availability>Available</Availability>
+    <CovTermOptCode>z78isngduqsou6dhe4b68k7hpg8</CovTermOptCode>
+    <CovTermPatternCode>PAUIMPDlimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+  <CovTermOptLookup public-id="zuhjgmqbf26rtbjeq2er98ma2ga">
+    <Availability>Available</Availability>
+    <CovTermOptCode>zsahc20k8vbo47iftogik7as63a</CovTermOptCode>
+    <CovTermPatternCode>PAUIMPDlimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermOptLookup>
+</import>

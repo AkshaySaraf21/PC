@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<import>
+  <BACovLookup public-id="z2rhmeu3ot0ta5dnm4r34bmlreb">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>BAPollutLiabBasicCov</CoveragePatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+  </BACovLookup>
+</import>

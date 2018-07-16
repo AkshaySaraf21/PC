@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="defaultlktblimport_227">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_254</CovTermPackCode>
+    <CovTermPatternCode>PAUIMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="defaultlktblimport_228">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_256</CovTermPackCode>
+    <CovTermPatternCode>PAUIMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="defaultlktblimport_229">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_258</CovTermPackCode>
+    <CovTermPatternCode>PAUIMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="defaultlktblimport_230">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_260</CovTermPackCode>
+    <CovTermPatternCode>PAUIMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermLookup public-id="defaultlktblimport_130">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>PAUIMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+  </CovTermLookup>
+</import>

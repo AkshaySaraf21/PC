@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="wKgJN0_FDi0AAAAA">
+    <Availability>Unavailable</Availability>
+    <CovTermPackCode>pack_289</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJN1ZRMcIAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJN_im7SsAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJNy13qJQAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJN6ENiXkAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJN2ltovwAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJN6lgDfYAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJN_WI0gEAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJN8PsCQEAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJN3YADTAAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJN8pFbPIAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJN5KP_00AAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJN9vNXLMAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJN4hZBiQAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJNwS_LWYAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="wKgJN4VAdmwAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJNx77R_MAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>VA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+</import>

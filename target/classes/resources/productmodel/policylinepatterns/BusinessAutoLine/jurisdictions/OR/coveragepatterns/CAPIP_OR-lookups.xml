@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<import>
+  <BACovLookup public-id="zbjisan6t25ug47bhttgcc9hbt8">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>CAPIP_OR</CoveragePatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>OR</State>
+  </BACovLookup>
+</import>

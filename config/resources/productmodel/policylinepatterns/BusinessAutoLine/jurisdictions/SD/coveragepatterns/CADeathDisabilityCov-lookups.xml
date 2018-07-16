@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<import>
+  <BACovLookup public-id="z07i2e0944f89acegp58dut3t3a">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>CADeathDisabilityCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>SD</State>
+  </BACovLookup>
+  <CovTermLookup public-id="zamga9obqvj9s0imnkcq4pned59">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>DeathBenefitLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>SD</State>
+  </CovTermLookup>
+  <CovTermLookup public-id="zpghq1pp5j502156jrec27rkvla">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>DisabilityBenefitLimit</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>SD</State>
+  </CovTermLookup>
+</import>

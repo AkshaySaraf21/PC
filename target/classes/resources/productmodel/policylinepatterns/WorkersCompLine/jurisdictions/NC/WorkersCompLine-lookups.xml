@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<import>
+  <ModifierLookup public-id="wKgUYsA_ep4AAAAA">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>WCScheduleCredits</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2008-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NC</State>
+  </ModifierLookup>
+</import>

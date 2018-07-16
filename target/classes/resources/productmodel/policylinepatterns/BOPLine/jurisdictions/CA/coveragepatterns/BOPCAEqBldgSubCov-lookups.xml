@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<import>
+  <CoverageLookup public-id="lktblimport_627">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>BOPCAEqBldgSubCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BOPLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>CA</State>
+    <UWCompanyCode/>
+  </CoverageLookup>
+</import>

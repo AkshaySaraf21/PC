@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<import>
+  <QuestionSetLookup public-id="zeohsv421124l6bltqp5lep41b9">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <QuestionSetCode>CPPOffering</QuestionSetCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+  </QuestionSetLookup>
+  <QuestionLookup public-id="za8joluk1b37j89og82fakbvjca">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <QuestionCode>CPPoffSprinkle</QuestionCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+  </QuestionLookup>
+  <QuestionLookup public-id="zp9j0j0geddu42pfvf1o5fdvfab">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <QuestionCode>CPPoffsafety</QuestionCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+  </QuestionLookup>
+  <QuestionLookup public-id="z22h2onvnnm6reeki1a037egdu8">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <QuestionCode>CPPoffSigns</QuestionCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+  </QuestionLookup>
+  <QuestionLookup public-id="zn4jijd2atpql8aloci6es81bea">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <QuestionCode>CPPoffWindRating</QuestionCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+  </QuestionLookup>
+  <QuestionLookup public-id="z2miehfu8inm558mm2ekj4auu2a">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <QuestionCode>CPPoffAccountsReceivable</QuestionCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+  </QuestionLookup>
+  <QuestionLookup public-id="zgci2nmrrk0rh68c5ldrhiuq5n9">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <QuestionCode>CPPoffDuplicated</QuestionCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+  </QuestionLookup>
+  <QuestionLookup public-id="z66j8q4n1pt1p5rmd134n2h05s9">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <QuestionCode>CPPoffFlammable</QuestionCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+  </QuestionLookup>
+  <QuestionLookup public-id="zr7j6vhgpaihh8qlsvatj7d7m68">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <QuestionCode>CPPoffLawsuits</QuestionCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+  </QuestionLookup>
+</import>

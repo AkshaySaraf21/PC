@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<import>
+  <ModifierLookup public-id="wKgUYjcX_0MAAAAA">
+    <Availability>Available</Availability>
+    <ModifierPatternCode>WorkplcSafetyPrgmFac</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2008-01-01 00:00:00.000</StartEffectiveDate>
+    <State>LA</State>
+  </ModifierLookup>
+</import>

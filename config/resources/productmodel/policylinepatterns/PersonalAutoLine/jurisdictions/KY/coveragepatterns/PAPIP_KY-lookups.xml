@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<import>
+  <CoverageLookup public-id="parggm2cjc9s158i55qk47praajb">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>PAPIP_KY</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <JobType/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>KY</State>
+    <UWCompanyCode/>
+  </CoverageLookup>
+</import>

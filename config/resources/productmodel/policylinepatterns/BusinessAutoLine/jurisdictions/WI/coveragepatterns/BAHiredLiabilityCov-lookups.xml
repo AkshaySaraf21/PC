@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="import_649">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_119</CovTermPackCode>
+    <CovTermPatternCode>BAHiredLiabilityBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>WI</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_697">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_99</CovTermPackCode>
+    <CovTermPatternCode>BAHiredLiabilityBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>WI</State>
+    <UWCompanyCode/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+</import>

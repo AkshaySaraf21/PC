@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<import>
+  <QuestionSetLookup public-id="wKgEdDDd2IwAAAAA">
+    <Availability>Available</Availability>
+    <QuestionSetCode>BOPOffering</QuestionSetCode>
+    <StartEffectiveDate>2008-11-21 00:00:00.000</StartEffectiveDate>
+  </QuestionSetLookup>
+  <QuestionLookup public-id="wKgEdNBCvtgAAAAA">
+    <Availability>Available</Availability>
+    <QuestionCode>BasedInBC</QuestionCode>
+    <StartEffectiveDate>2008-11-21 00:00:00.000</StartEffectiveDate>
+  </QuestionLookup>
+  <QuestionLookup public-id="wKgEdKZvXLUAAAAA">
+    <Availability>Available</Availability>
+    <QuestionCode>PartnersAlliance</QuestionCode>
+    <StartEffectiveDate>2008-11-21 00:00:00.000</StartEffectiveDate>
+  </QuestionLookup>
+</import>

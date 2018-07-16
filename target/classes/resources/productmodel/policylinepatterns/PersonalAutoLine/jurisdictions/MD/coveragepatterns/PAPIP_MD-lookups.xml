@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<import>
+  <CoverageLookup public-id="paarj8dj9gdagkf2akv94qoj2vk8">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>PAPIP_MD</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MD</State>
+  </CoverageLookup>
+  <CovTermLookup public-id="paekimtdde58sf0her1a9k765ccb">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>PAPIPMD_LIMIT</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>PersonalAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>MD</State>
+  </CovTermLookup>
+</import>

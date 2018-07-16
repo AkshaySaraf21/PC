@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="import_507">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_199</CovTermPackCode>
+    <CovTermPatternCode>PAUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>LA</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+</import>

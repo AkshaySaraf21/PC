@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="import_682">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_99</CovTermPackCode>
+    <CovTermPatternCode>BAHiredLiabilityBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>KS</State>
+    <UWCompanyCode/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+</import>

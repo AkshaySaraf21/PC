@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<import>
+  <ModifierLookup public-id="lktblimport_183">
+    <Availability>Available</Availability>
+    <EndEffectiveDate>2001-11-01 00:00:00.000</EndEffectiveDate>
+    <ModifierPatternCode>FreshStartSurcharge</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>ME</State>
+  </ModifierLookup>
+  <ModifierLookup public-id="lktblimport_94">
+    <Availability>Available</Availability>
+    <EndEffectiveDate/>
+    <ModifierPatternCode>MeritRating</ModifierPatternCode>
+    <PolicyLinePatternCode>WorkersCompLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>ME</State>
+  </ModifierLookup>
+</import>

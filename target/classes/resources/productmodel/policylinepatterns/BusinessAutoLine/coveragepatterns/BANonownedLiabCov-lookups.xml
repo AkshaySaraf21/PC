@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="import_700">
+    <Availability>Unavailable</Availability>
+    <CovTermPackCode>pack_100</CovTermPackCode>
+    <CovTermPatternCode>BANonownedLiabBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_724">
+    <Availability>Unavailable</Availability>
+    <CovTermPackCode>pack_103</CovTermPackCode>
+    <CovTermPatternCode>BANonownedLiabBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_727">
+    <Availability>Unavailable</Availability>
+    <CovTermPackCode>pack_106</CovTermPackCode>
+    <CovTermPatternCode>BANonownedLiabBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="defaultlktblimport_487">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_109</CovTermPackCode>
+    <CovTermPatternCode>BANonownedLiabBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="defaultlktblimport_488">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_114</CovTermPackCode>
+    <CovTermPatternCode>BANonownedLiabBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_730">
+    <Availability>Unavailable</Availability>
+    <CovTermPackCode>pack_117</CovTermPackCode>
+    <CovTermPatternCode>BANonownedLiabBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_732">
+    <Availability>Unavailable</Availability>
+    <CovTermPackCode>pack_120</CovTermPackCode>
+    <CovTermPatternCode>BANonownedLiabBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="defaultlktblimport_489">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_123</CovTermPackCode>
+    <CovTermPatternCode>BANonownedLiabBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="defaultlktblimport_490">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_126</CovTermPackCode>
+    <CovTermPatternCode>BANonownedLiabBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="defaultlktblimport_491">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_129</CovTermPackCode>
+    <CovTermPatternCode>BANonownedLiabBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="defaultlktblimport_492">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_132</CovTermPackCode>
+    <CovTermPatternCode>BANonownedLiabBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_739">
+    <Availability>Unavailable</Availability>
+    <CovTermPackCode>pack_91</CovTermPackCode>
+    <CovTermPatternCode>BANonownedLiabBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_741">
+    <Availability>Unavailable</Availability>
+    <CovTermPackCode>pack_94</CovTermPackCode>
+    <CovTermPatternCode>BANonownedLiabBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermPackLookup public-id="import_749">
+    <Availability>Unavailable</Availability>
+    <CovTermPackCode>pack_97</CovTermPackCode>
+    <CovTermPatternCode>BANonownedLiabBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermLookup public-id="defaultlktblimport_334">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>BANonownedLiabBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State/>
+  </CovTermLookup>
+  <BACovLookup public-id="z09im683v3rc2a7k6jgbpvni1ga">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>BANonownedLiabCov</CoveragePatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+  </BACovLookup>
+</import>

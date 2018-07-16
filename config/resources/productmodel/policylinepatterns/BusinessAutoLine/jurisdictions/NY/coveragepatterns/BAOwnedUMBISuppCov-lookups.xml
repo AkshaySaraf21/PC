@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="import_977">
+    <Availability>Available</Availability>
+    <CovTermPackCode>pack_101</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBISuppBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NY</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <BACovLookup public-id="zfqhuf1msollm7u544fslrnns28">
+    <Availability>Available</Availability>
+    <CoveragePatternCode>BAOwnedUMBISuppCov</CoveragePatternCode>
+    <EndEffectiveDate/>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>NY</State>
+  </BACovLookup>
+</import>

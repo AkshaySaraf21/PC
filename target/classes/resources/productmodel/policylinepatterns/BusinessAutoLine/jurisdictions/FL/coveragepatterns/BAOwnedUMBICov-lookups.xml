@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<import>
+  <CovTermPackLookup public-id="wKgJN4gyOIcAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPackCode>wKgJN4vN9LIAAAAA</CovTermPackCode>
+    <CovTermPatternCode>BAOwnedUMBI</CovTermPatternCode>
+    <EndEffectiveDate/>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>FL</State>
+    <Currency>usd</Currency>
+  </CovTermPackLookup>
+  <CovTermLookup public-id="wKgURScNcpwAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>BAOwnedUMStack</CovTermPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>FL</State>
+  </CovTermLookup>
+  <CovTermLookup public-id="wKgURZsv3CIAAAAA">
+    <Availability>Available</Availability>
+    <CovTermPatternCode>BAOwnedUMStackUIM</CovTermPatternCode>
+    <PolicyLinePatternCode>BusinessAutoLine</PolicyLinePatternCode>
+    <StartEffectiveDate>2000-01-01 00:00:00.000</StartEffectiveDate>
+    <State>FL</State>
+  </CovTermLookup>
+</import>

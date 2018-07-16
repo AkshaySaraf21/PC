@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<PCF
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="../../../../../../pcf.xsd">
+  <Popup
+    id="CoverageWrapperSearchPopup"
+    returnType="String"
+    title="displaykey.Web.Rating.Parameter.Search.CoverageWrapperSearch">
+    <LocationEntryPoint
+      signature="CoverageWrapperSearchPopup(PolicyLinePatternCode : String)"/>
+    <Variable
+      name="PolicyLinePatternCode"
+      type="String"/>
+    <Screen>
+      <SearchPanel
+        criteriaName="searchCriteria"
+        resultsName="results"
+        search="searchCriteria.doSearch()"
+        searchCriteria="new gw.pcf.rating.flow.CoverageWrapperSearchCriteria(PolicyLinePatternCode)"
+        searchResultsType="gw.pc.rating.flow.AvailableCoverageWrapper[]">
+        <DetailViewPanel>
+          <InputColumn>
+            <InputSetRef
+              def="SearchAndResetInputSet()"/>
+          </InputColumn>
+        </DetailViewPanel>
+        <PanelRef>
+          <Toolbar
+            id="toolbar"/>
+          <ListViewPanel>
+            <RowIterator
+              editable="false"
+              elementName="wrapperClass"
+              pickValue="wrapperClass.WrapperType.Name"
+              value="results">
+              <Row>
+                <Cell
+                  id="name"
+                  label="displaykey.Web.Rating.Parameter.Search.WrapperName"
+                  value="wrapperClass.Name"/>
+              </Row>
+            </RowIterator>
+          </ListViewPanel>
+        </PanelRef>
+      </SearchPanel>
+    </Screen>
+  </Popup>
+</PCF>
